@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{E9D1B5E1-DEB9-4A04-8BAB-24EC7240ADAF}"
 	ProjectSection(SolutionItems) = preProject
@@ -33,6 +33,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQLSample", "MSSQLSample\MSSQLSample.csproj", "{F9BEFBBD-0883-4AAF-AEEC-6172E890A713}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaygunSample", "RaygunSample\RaygunSample.csproj", "{55340B61-A28F-4960-9BA7-94DB1DF2C064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinHarness", "OwinHarness\OwinHarness.csproj", "{D88B151D-2B50-4AAF-A60D-076EEE2D6B7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,10 @@ Global
 		{55340B61-A28F-4960-9BA7-94DB1DF2C064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55340B61-A28F-4960-9BA7-94DB1DF2C064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55340B61-A28F-4960-9BA7-94DB1DF2C064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88B151D-2B50-4AAF-A60D-076EEE2D6B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88B151D-2B50-4AAF-A60D-076EEE2D6B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88B151D-2B50-4AAF-A60D-076EEE2D6B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88B151D-2B50-4AAF-A60D-076EEE2D6B7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
